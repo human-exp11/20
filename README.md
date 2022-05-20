@@ -55,7 +55,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## GitHub Pages
 
-* [GitHub Pages]()
+* [gh-pages](https://human-exp11.github.io/20/#about)
 
 ---
 
